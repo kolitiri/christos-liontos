@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "7666111f91c90753b2c8",
-    "url": "/christos-liontos/static/css/main.b07992ff.chunk.css"
+    "revision": "5542573ef20d4713f11a",
+    "url": "/christos-liontos/static/css/main.e8e08e8c.chunk.css"
   },
   {
-    "revision": "7666111f91c90753b2c8",
-    "url": "/christos-liontos/static/js/main.db87b2ac.chunk.js"
+    "revision": "5542573ef20d4713f11a",
+    "url": "/christos-liontos/static/js/main.c745999a.chunk.js"
   },
   {
     "revision": "8fe835fde4c707388829",
     "url": "/christos-liontos/static/js/runtime~main.7e92e8e6.js"
   },
   {
-    "revision": "6d2e00e4e20b9cfda3fd",
-    "url": "/christos-liontos/static/js/2.07d4d849.chunk.js"
+    "revision": "68cdea1fc3505098f534",
+    "url": "/christos-liontos/static/js/2.a8a8ce47.chunk.js"
   },
   {
     "revision": "ef468e275a2c13d0bc7156549261fde6",
@@ -26,6 +26,38 @@ self.__precacheManifest = [
   {
     "revision": "17217b0d284352ce1410606686e46817",
     "url": "/christos-liontos/static/media/twitter-logo.17217b0d.webp"
+  },
+  {
+    "revision": "b77a278f3896de0236d5686862e69a9f",
+    "url": "/christos-liontos/static/media/docker.b77a278f.svg"
+  },
+  {
+    "revision": "e6a0ec06885c68b523d5c50ff4603dba",
+    "url": "/christos-liontos/static/media/kubernetes.e6a0ec06.svg"
+  },
+  {
+    "revision": "ad78330f36818005652290349d62645f",
+    "url": "/christos-liontos/static/media/linux.ad78330f.svg"
+  },
+  {
+    "revision": "d571053a3cda81b67bfdaee97caab9bc",
+    "url": "/christos-liontos/static/media/mongo.d571053a.svg"
+  },
+  {
+    "revision": "11493bce36b93e4b464979e513fbc0e5",
+    "url": "/christos-liontos/static/media/python.11493bce.svg"
+  },
+  {
+    "revision": "54c8af39024253464d20c3b6fc9399bf",
+    "url": "/christos-liontos/static/media/rabbitmq.54c8af39.svg"
+  },
+  {
+    "revision": "ddd11c2b829e68ee21b9030bf3cc2727",
+    "url": "/christos-liontos/static/media/react.ddd11c2b.svg"
+  },
+  {
+    "revision": "7a3d475ba74b6944ccf8ed854961c98c",
+    "url": "/christos-liontos/static/media/sentry.7a3d475b.svg"
   },
   {
     "revision": "564e4bafcd3b130210a1a9bfb32995a5",
@@ -56,7 +88,7 @@ self.__precacheManifest = [
     "url": "/christos-liontos/static/media/background.92bd24bf.jpeg"
   },
   {
-    "revision": "087c005aaede1abe8eba15c864fb9e10",
+    "revision": "553668629a02dc216b6e4c280e6fde60",
     "url": "/christos-liontos/index.html"
   }
 ];
