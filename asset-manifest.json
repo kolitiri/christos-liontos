@@ -1,0 +1,23 @@
+{
+  "main.css": "/christos-liontos/static/css/main.b07992ff.chunk.css",
+  "main.js": "/christos-liontos/static/js/main.db87b2ac.chunk.js",
+  "main.js.map": "/christos-liontos/static/js/main.db87b2ac.chunk.js.map",
+  "runtime~main.js": "/christos-liontos/static/js/runtime~main.7e92e8e6.js",
+  "runtime~main.js.map": "/christos-liontos/static/js/runtime~main.7e92e8e6.js.map",
+  "static/js/2.07d4d849.chunk.js": "/christos-liontos/static/js/2.07d4d849.chunk.js",
+  "static/js/2.07d4d849.chunk.js.map": "/christos-liontos/static/js/2.07d4d849.chunk.js.map",
+  "index.html": "/christos-liontos/index.html",
+  "precache-manifest.98c26df917d6d36afd5bfd1b4eb4564c.js": "/christos-liontos/precache-manifest.98c26df917d6d36afd5bfd1b4eb4564c.js",
+  "service-worker.js": "/christos-liontos/service-worker.js",
+  "static/css/main.b07992ff.chunk.css.map": "/christos-liontos/static/css/main.b07992ff.chunk.css.map",
+  "static/media/Octocat.png": "/christos-liontos/static/media/Octocat.ef468e27.png",
+  "static/media/SG-Logo.png": "/christos-liontos/static/media/SG-Logo.564e4baf.png",
+  "static/media/Banner.css": "/christos-liontos/static/media/background.92bd24bf.jpeg",
+  "static/media/findsources.svg": "/christos-liontos/static/media/findsources.76965a95.svg",
+  "static/media/garmin.png": "/christos-liontos/static/media/garmin.8c3064d9.png",
+  "static/media/github.svg": "/christos-liontos/static/media/github.76d344f0.svg",
+  "static/media/playtech-logo.svg": "/christos-liontos/static/media/playtech-logo.091b1661.svg",
+  "static/media/pypi-logo.svg": "/christos-liontos/static/media/pypi-logo.72ad8bf1.svg",
+  "static/media/thes.jpeg": "/christos-liontos/static/media/thes.6e7595ac.jpeg",
+  "static/media/twitter-logo.webp": "/christos-liontos/static/media/twitter-logo.17217b0d.webp"
+}
