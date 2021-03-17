@@ -1,0 +1,30 @@
+.pr-print-header {
+	text-align: center;
+}
+
+.pr-title {
+	font-size: 30px;
+}
+
+.pr-body {
+	font-size: 16px;
+	padding-top: 20px;
+}
+
+.pr-logos-paragraph {
+	text-align: center;
+}
+
+.pr-logos {
+	height: 50px;
+}
+
+.pr-footer {
+	font-size: 16px;
+	padding-top: 20px;
+}
+
+.pr-line {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}

@@ -45,7 +45,8 @@ export const careerState = {
 					"text": 'Docker, Kubernetes, RabbitMQ, Codefresh, Rancher'
 				}
 			],
-			"cls": ''
+			"cls": '',
+			"tabOpen": true
 		},
 		{
 			"jobTitle": 'Software Engineer',
@@ -87,7 +88,8 @@ export const careerState = {
 					"text": 'Docker, AWS, Jenkins, Artifactory'
 				}
 			],
-			"cls": ''
+			"cls": '',
+			"tabOpen": true
 		},
 		{
 			"jobTitle": 'Graduate Consultant',
@@ -127,7 +129,8 @@ export const careerState = {
 					"text": 'Excel, Eclipse BIRT'
 				}
 			],
-			"cls": 'cr-page-break'
+			"cls": 'cr-page-break',
+			"tabOpen": true
 		},
 	]
 };

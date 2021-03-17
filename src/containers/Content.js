@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import ProfileTab from './ProfileTab';
 import CareerTab from './CareerTab';
 import EducationTab from './EducationTab';
 import ProjectsTab from './ProjectsTab';
@@ -40,6 +41,7 @@ class Content extends Component {
 					<Row>
 						<Col xsHidden sm={2}></Col>
 						<Col xs={12} sm={8}>
+							{(this.state.activeTab === 'ProfileTab' || this.props.printing) && <ProfileTab printing={this.props.printing}/>}
 							{(this.state.activeTab === 'CareerTab' || this.props.printing) && <CareerTab printing={this.props.printing}/>}
 							{(this.state.activeTab === 'EducationTab' || this.props.printing) && <EducationTab printing={this.props.printing}/>}
 							{(this.state.activeTab === 'ProjectsTab' || this.props.printing) && <ProjectsTab printing={this.props.printing}/>}

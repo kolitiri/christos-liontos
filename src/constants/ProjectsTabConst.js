@@ -36,6 +36,7 @@ export const projectsState = {
 					"cls": 'pr-pypi-logo'
 				}
 			],
+			"tabOpen": true
 		},
 		{
 			"projectTitle": 'FindSources website',
@@ -85,6 +86,7 @@ export const projectsState = {
 					"cls": 'pr-findsources-logo'
 				}
 			],
+			"tabOpen": true
 		},
 		{
 			"projectTitle": 'FARM authentication',
@@ -120,6 +122,7 @@ export const projectsState = {
 					"cls": 'pr-octo-logo'
 				}
 			],
+			"tabOpen": true
 		},
 		{
 			"projectTitle": 'Kolitiri Bookmarks',
@@ -152,6 +155,7 @@ export const projectsState = {
 					"cls": 'pr-chrome-logo'
 				}
 			],
+			"tabOpen": true
 		},
 		{
 			"projectTitle": 'Online CV',
@@ -163,7 +167,7 @@ export const projectsState = {
 				'This is the page you are currently browsing. I know, quite boring!',
 				'It was initially designed the "traditional" way (HTML, Javascript, jQuery, Bootstrap). However, I recently ' +
 				 'decided to re-write it using ReactJS just for the sake of experimenting with the library.',
-				'As you probably noticed, it is hosted on heroku and for simplicity there is no connection to a database. ' +
+				'As you probably noticed, it is hosted on Github Pages and for simplicity there is no connection to a database. ' +
 				 'All information is organised in Json format and is stored in the state of each component.'
 			],
 			"projectTech": [
@@ -179,6 +183,7 @@ export const projectsState = {
 					"cls": 'pr-octo-logo'
 				},
 			],
+			"tabOpen": true
 		},
 		{
 			"projectTitle": 'Garmin MyBus app',
@@ -219,10 +224,10 @@ export const projectsState = {
 				},
 				{
 					"src": garminLogo,
-					"href": 'https://apps.garmin.com/en-US/apps/32c1e832-9bab-4ce3-9461-fb61d8d546a8',
 					"cls": 'pr-garmin-logo'
 				}
 			],
+			"tabOpen": true
 		},
 		{
 			"projectTitle": 'MyBus Web Service',
@@ -265,6 +270,7 @@ export const projectsState = {
 					"cls": 'pr-octo-logo'
 				},
 			],
+			"tabOpen": true
 		},
 		{
 			"projectTitle": 'Django Website',
@@ -317,6 +323,7 @@ export const projectsState = {
 					"cls": 'pr-octo-logo'
 				},
 			],
+			"tabOpen": true
 		},
 		{
 			"projectTitle": 'Release Plan Generator',
@@ -342,6 +349,7 @@ export const projectsState = {
 					"cls": 'pr-octo-logo'
 				},
 			],
+			"tabOpen": true
 		},
 		{
 			"projectTitle": 'Spareroom Scraper',
@@ -365,6 +373,7 @@ export const projectsState = {
 					"cls": 'pr-octo-logo'
 				},
 			],
+			"tabOpen": true
 		},
 	]
 };

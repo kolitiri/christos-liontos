@@ -27,6 +27,7 @@ export const educationState = {
 							'designing an autonomous robot (LeJOS - Java), able to interact with a user via the ' +
 							'computer and perform a number of tasks.',
 			},
+			"tabOpen": true
 		},
 		{
 			"eduTitle": 'BSc School of Mathematics',
@@ -43,6 +44,7 @@ export const educationState = {
 				'Probabilities',
 				'Fortran, SPSS, C++',
 			],
+			"tabOpen": true
 		},
 	]
 };
