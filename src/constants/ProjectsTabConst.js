@@ -48,13 +48,13 @@ export const projectsState = {
 				'MongoDb'
 			],
 			"projectDesc": [
-				'This is a website that serves as a search engine for books.',
-				'Users can not only search, but also register as authors and create their own references to their favorite books.',
-				'The search results are based on such references rather than the actual content of the books, ' +
-				'respecting in this way the authors\' copyrights.',
-				'It\'s the users\' input that defines the search results and not the maintainer\'s judgment.',
-				'The vision is for this to evolve into a free indexing service for books, with a plethora of ' +
-				'references, that can be used for educational purposes.'
+				'This project is a reference management system powered by elasticsearch.',
+				'It is a set of microservices that allow references to be inserted into the system and then be made searchable with elastic search.',
+				'It was used to power findsources.co.uk, which was a search engine for books, based on content references.',
+				'Users were able to register as authors and create their own book references. The search results were ' +
+				'based on such references rather than the actual content of the books.',
+				'After almost 1.5 years, I decided to take the website down, due to lack of time to generate enough content ' +
+				'to attract users and also the high maintenance fees in Digital Ocean\'s Kubernetes cluster.'	
 			],
 			"projectTech": [
 				{
@@ -82,7 +82,7 @@ export const projectsState = {
 				},
 				{
 					"src": findsourceslogo,
-					"href": 'https://findsources.co.uk/',
+					"href": 'https://github.com/kolitiri/findsources-website',
 					"cls": 'pr-findsources-logo'
 				}
 			],
