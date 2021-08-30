@@ -39,7 +39,7 @@ export const projectsState = {
 			"tabOpen": true
 		},
 		{
-			"projectTitle": 'FindSources website',
+			"projectTitle": 'Reference Manager',
 			"projectLabels": [
 				'ReactJS',
 				'ReactiveSearch',
