@@ -77,12 +77,12 @@ export const projectsState = {
 			"projectLogos": [
 				{
 					"src": octoLogo,
-					"href": 'https://github.com/kolitiri/findsources-website',
+					"href": 'https://github.com/kolitiri/reference-manager',
 					"cls": 'pr-octo-logo'
 				},
 				{
 					"src": findsourceslogo,
-					"href": 'https://github.com/kolitiri/findsources-website',
+					"href": '',
 					"cls": 'pr-findsources-logo'
 				}
 			],
