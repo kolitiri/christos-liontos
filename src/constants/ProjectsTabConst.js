@@ -82,7 +82,6 @@ export const projectsState = {
 				},
 				{
 					"src": findsourceslogo,
-					"href": '',
 					"cls": 'pr-findsources-logo'
 				}
 			],
