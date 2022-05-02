@@ -14,11 +14,12 @@ export const careerState = {
 			},
 			"jobLocation": 'Playtech | London, UK',
 			"jobPeriod": '06/2018 – Present',
-			"jobDesc": 'Backend developer providing solutions for Sports Betting related websites.',
+			"jobDesc": 'Backend developer, providing solutions for Sports Betting related systems, with a heavy focus on ' +
+						'event driven development and message brokers.',
 			"jobResp": 'Developing new products, features and functionality, as well as maintaining the existing ones. BAU!',
 			"sampleWork": [
-				'Implementation and maintenance of applications for collection and aggregation of web feeds from external providers.',
-				'Solutions for handling real-time content updates for Sports Betting related websites.',
+				'Implementation and maintenance of applications for collection and aggregation of feeds from external providers.',
+				'Solutions for handling real-time content updates for Sports Betting related systems.',
 				'Software migrations from legacy systems to new platforms and pipelines.',
 				'Improvement and maintenance of in-house administrative tools and microservices.',
 				'Mentoring and training junior engineers.'
@@ -26,7 +27,7 @@ export const careerState = {
 			"jobTech": [
 				{
 					"category": 'Back End',
-					"text": 'Python (Tornado, asyncio)'
+					"text": 'Python (tornado, asyncio)'
 				},
 				{
 					"category": 'Front End',
@@ -42,7 +43,7 @@ export const careerState = {
 				},
 				{
 					"category": 'Other',
-					"text": 'Docker, Kubernetes, RabbitMQ, Codefresh, Rancher'
+					"text": 'RabbitMQ, Kafka, Docker, Kubernetes, Jenkins'
 				}
 			],
 			"cls": '',
@@ -56,7 +57,7 @@ export const careerState = {
 			},
 			"jobLocation": 'Openbet | London, UK',
 			"jobPeriod": '10/2015 – 06/2018',
-			"jobDesc": 'Full stack software engineer providing solutions for Sports Betting related websites.',
+			"jobDesc": 'Full stack software engineer providing solutions for Sports Betting related systems.',
 			"jobResp": 'Developing new products, features and functionality, as well as maintaining the existing ones. ' +
 						'Full cycle development that includes Requirements capture, analysis, development, performance ' +
 						'testing, Live and pre-production deployments, maintenance.',
