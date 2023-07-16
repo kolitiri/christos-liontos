@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cc1e8e387f2b4b8fe4b5",
+    "revision": "371a880054428862e500",
     "url": "/christos-liontos/static/css/main.e8e08e8c.chunk.css"
   },
   {
-    "revision": "cc1e8e387f2b4b8fe4b5",
-    "url": "/christos-liontos/static/js/main.f109ad3a.chunk.js"
+    "revision": "371a880054428862e500",
+    "url": "/christos-liontos/static/js/main.f2a5ac18.chunk.js"
   },
   {
     "revision": "8fe835fde4c707388829",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/christos-liontos/static/media/findsources.76965a95.svg"
   },
   {
-    "revision": "d3ec0ec5e2bc159bb63b92501e90dd6b",
+    "revision": "6680d4c99b1f246a6d2ca8cea9518266",
     "url": "/christos-liontos/index.html"
   }
 ];
