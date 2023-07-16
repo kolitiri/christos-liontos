@@ -1,23 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "ffafd98cd31ca1966b37",
+    "revision": "cc1e8e387f2b4b8fe4b5",
     "url": "/christos-liontos/static/css/main.e8e08e8c.chunk.css"
   },
   {
-    "revision": "ffafd98cd31ca1966b37",
-    "url": "/christos-liontos/static/js/main.94788d66.chunk.js"
+    "revision": "cc1e8e387f2b4b8fe4b5",
+    "url": "/christos-liontos/static/js/main.f109ad3a.chunk.js"
   },
   {
     "revision": "8fe835fde4c707388829",
     "url": "/christos-liontos/static/js/runtime~main.7e92e8e6.js"
   },
   {
-    "revision": "68cdea1fc3505098f534",
-    "url": "/christos-liontos/static/js/2.a8a8ce47.chunk.js"
+    "revision": "317641c7a63d9f498505",
+    "url": "/christos-liontos/static/js/2.3cad19b8.chunk.js"
   },
   {
     "revision": "ef468e275a2c13d0bc7156549261fde6",
     "url": "/christos-liontos/static/media/Octocat.ef468e27.png"
+  },
+  {
+    "revision": "8c3064d9010baecd0fa1619bc4fa0ac7",
+    "url": "/christos-liontos/static/media/garmin.8c3064d9.png"
+  },
+  {
+    "revision": "72ad8bf135d2154813fb5847873bb88f",
+    "url": "/christos-liontos/static/media/pypi-logo.72ad8bf1.svg"
   },
   {
     "revision": "76d344f08412543c74ccd1fb2493d607",
@@ -72,23 +80,15 @@ self.__precacheManifest = [
     "url": "/christos-liontos/static/media/thes.6e7595ac.jpeg"
   },
   {
-    "revision": "8c3064d9010baecd0fa1619bc4fa0ac7",
-    "url": "/christos-liontos/static/media/garmin.8c3064d9.png"
+    "revision": "92bd24bf1170f84b60d1137c8d963238",
+    "url": "/christos-liontos/static/media/background.92bd24bf.jpeg"
   },
   {
     "revision": "76965a95ee1a1d76bc7fca19276cdff3",
     "url": "/christos-liontos/static/media/findsources.76965a95.svg"
   },
   {
-    "revision": "72ad8bf135d2154813fb5847873bb88f",
-    "url": "/christos-liontos/static/media/pypi-logo.72ad8bf1.svg"
-  },
-  {
-    "revision": "92bd24bf1170f84b60d1137c8d963238",
-    "url": "/christos-liontos/static/media/background.92bd24bf.jpeg"
-  },
-  {
-    "revision": "4f30a10cd71076068c96084536559f1e",
+    "revision": "d3ec0ec5e2bc159bb63b92501e90dd6b",
     "url": "/christos-liontos/index.html"
   }
 ];
