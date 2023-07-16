@@ -14,20 +14,24 @@ export const careerState = {
 			},
 			"jobLocation": 'Playtech | London, UK',
 			"jobPeriod": '06/2018 – Present',
-			"jobDesc": 'Backend developer, providing solutions for Sports Betting related systems, with a heavy focus on ' +
-						'event driven development and message brokers.',
-			"jobResp": 'Developing new products, features and functionality, as well as maintaining the existing ones. BAU!',
+			"jobDesc": 'Senior backend engineer providing solutions for Sports Betting related systems.',
+			"jobResp": [
+				'Senior engineer with heavy focus on event driven development and message brokers.',
+				'Lead engineer in a test automation team, working on the definition and implementation ' +
+				'of internal frameworks for integration, functional and performance testing.'
+			],
 			"sampleWork": [
 				'Implementation and maintenance of applications for collection and aggregation of feeds from external providers.',
 				'Solutions for handling real-time content updates for Sports Betting related systems.',
 				'Software migrations from legacy systems to new platforms and pipelines.',
 				'Improvement and maintenance of in-house administrative tools and microservices.',
+				'Development of bespoke test automation frameworks.',
 				'Mentoring and training junior engineers.'
 			],
 			"jobTech": [
 				{
 					"category": 'Back End',
-					"text": 'Python (tornado, asyncio)'
+					"text": 'Python (tornado, asyncio, aiokafka, aiopika, motor)'
 				},
 				{
 					"category": 'Front End',
@@ -43,7 +47,7 @@ export const careerState = {
 				},
 				{
 					"category": 'Other',
-					"text": 'RabbitMQ, Kafka, Docker, Kubernetes, Jenkins'
+					"text": 'RabbitMQ, Kafka, Docker, Kubernetes, Jenkins, Sentry'
 				}
 			],
 			"cls": '',
