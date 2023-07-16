@@ -16,7 +16,7 @@ export const careerState = {
 			"jobPeriod": '06/2018 – Present',
 			"jobDesc": 'Senior backend engineer providing solutions for Sports Betting related systems.',
 			"jobResp": [
-				'Senior engineer with heavy focus on event driven development and message brokers.',
+				'Senior engineer with heavy focus on event driven development and message brokers. ',
 				'Lead engineer in a test automation team, working on the definition and implementation ' +
 				'of internal frameworks for integration, functional and performance testing.'
 			],

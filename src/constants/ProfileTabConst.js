@@ -13,7 +13,7 @@ export const profileState = {
 	"greeting": "Hi! I'm Chris 👋",
 	"body": [
 		"I am a full stack engineer, currently living and working in London.",
-		"I specialise primarily in Python but I am always keen on working with all types of technologies! I also have a secret love for Javascript but 🤫.. I'm not that good yet.",
+		"I specialise primarily in Python but I am always keen on working with all kinds of technologies!",
 		"Here's a sample of the stack I work with on a daily basis:"
 	],
 	"logos": [
