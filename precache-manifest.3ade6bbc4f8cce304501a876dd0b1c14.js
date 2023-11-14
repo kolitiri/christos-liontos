@@ -1,31 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "371a880054428862e500",
+    "revision": "16ee3528ddc809c6e391",
     "url": "/christos-liontos/static/css/main.e8e08e8c.chunk.css"
   },
   {
-    "revision": "371a880054428862e500",
-    "url": "/christos-liontos/static/js/main.f2a5ac18.chunk.js"
+    "revision": "16ee3528ddc809c6e391",
+    "url": "/christos-liontos/static/js/main.14a43bf9.chunk.js"
   },
   {
     "revision": "8fe835fde4c707388829",
     "url": "/christos-liontos/static/js/runtime~main.7e92e8e6.js"
   },
   {
-    "revision": "317641c7a63d9f498505",
-    "url": "/christos-liontos/static/js/2.3cad19b8.chunk.js"
+    "revision": "6129f9e3105e47b9ec37",
+    "url": "/christos-liontos/static/js/2.dcb8dfe5.chunk.js"
   },
   {
     "revision": "ef468e275a2c13d0bc7156549261fde6",
     "url": "/christos-liontos/static/media/Octocat.ef468e27.png"
   },
   {
-    "revision": "8c3064d9010baecd0fa1619bc4fa0ac7",
-    "url": "/christos-liontos/static/media/garmin.8c3064d9.png"
-  },
-  {
     "revision": "72ad8bf135d2154813fb5847873bb88f",
     "url": "/christos-liontos/static/media/pypi-logo.72ad8bf1.svg"
+  },
+  {
+    "revision": "8c3064d9010baecd0fa1619bc4fa0ac7",
+    "url": "/christos-liontos/static/media/garmin.8c3064d9.png"
   },
   {
     "revision": "76d344f08412543c74ccd1fb2493d607",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/christos-liontos/static/media/findsources.76965a95.svg"
   },
   {
-    "revision": "6680d4c99b1f246a6d2ca8cea9518266",
+    "revision": "2cc6b350182cdbd97a939a2a8a1ef42d",
     "url": "/christos-liontos/index.html"
   }
 ];
