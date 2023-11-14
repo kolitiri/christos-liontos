@@ -9,6 +9,35 @@ export const projectsState = {
 	"tabName": 'Projects',
 	"projects": [
 		{
+			"projectTitle": 'Pytest report stream plugin',
+			"projectLabels": [
+				'Python', 'PyPI',
+			],
+			"projectDesc": [
+				'pytest-report-stream is a pytest plugin which allows to stream test reports at runtime.',
+				'It is a simple plugin the leverages pytest\'s build-in hook pytest_runtest_makereport to intercept test execution and publish the status of the test run.',
+			],
+			"projectTech": [
+				{
+					"category": 'Backend',
+					"text": 'Python3, Pytest'
+				}
+			],
+			"projectLogos": [
+				{
+					"src": octoLogo,
+					"href": 'https://github.com/kolitiri/pytest-report-stream',
+					"cls": 'pr-octo-logo'
+				},
+				{
+					"src": pypilogo,
+					"href": 'https://pypi.org/project/pytest-report-stream/',
+					"cls": 'pr-pypi-logo'
+				}
+			],
+			"tabOpen": true
+		},
+		{
 			"projectTitle": 'Valid arguments',
 			"projectLabels": [
 				'Python', 'PyPI',
